@@ -9554,11 +9554,11 @@
               { name: "Funny Pictures", ref: g },
               {
                 name: "Dexscreener",
-                href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                href: "https://dexscreener.com/ethereum/0x87fa45cb1b57ee9e74b9b67032e79d510593c925",
               },
               {
                 name: "Dextools",
-                href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xcomingsoon",
+                href: "https://www.dextools.io/app/en/ethereum/pair-explorer/0xC336F8408557272646D192628DC3F554b654B21A",
               },
               { name: "Telegram", href: "https://t.me/remc_erc20" },
               { name: "Twitter", href: "https://x.com/remc_erc20" },
@@ -9665,7 +9665,7 @@
                                   rel: "noreferrer",
                                   target: "_blank",
                                   children:
-                                    "Contract Address: 0xcomingsoon",
+                                    "Contract Address: 0xC336F8408557272646D192628DC3F554b654B21A",
                                 }),
                               ],
                             }),
